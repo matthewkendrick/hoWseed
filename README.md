@@ -1,5 +1,3 @@
-# README
-
 <!-- アプリ名 -->
 # hoWseed
 
@@ -14,6 +12,7 @@
 このアプリの中核機能である、<strong>今日いくら使ってもいいか</strong>が表示されるウィンドウがあります。しかしこれは、
 <h3 style="color:red">実際よりも少なく</h3>
 見せています。<br>
+
 <table>
   <tr align="center"><td><strong>実際に使える金額</td><td><strong>少なく見せる割合</td></tr>
   <tr align="center"><td>500円</td><td>60%</td></tr>
@@ -23,6 +22,7 @@
 <br>
 そしてそれを囲うリングでは今日使った金額が、 <br>
 目標金額(ニセの金額)に対して何%使っているかが表示されます。<br>
+
 <table>
   <tr align="center"><td><strong>目標金額(ニセ)</td><td><strong>実際に使った金額</td></tr>
   <tr align="center"><td>500</td><td>300</td></tr>
@@ -32,6 +32,7 @@
 <br>
 この他にも分析機能など、より貯金をすることに特化した <br>
 さまざまな機能を追加していきたいと考えています。
+<br>
 <br>
 <br>
 
@@ -47,6 +48,7 @@
 * 上記のことからそもそもその日使える金額を少なく見せる、そんな家計簿があればいいのではと考え、Excel(Numbers)で自作し利用し始めてから現在２年が経ちますが、大した苦もなく気づけばといった感じで￥１０，０００以上余分に貯金できています。
 <br>
 <br>
+<br>
 
 - - - -
 ### ターゲットユーザ
@@ -54,11 +56,12 @@
 * "給与"を貰っている人すべて
 <br>
 <br>
+<br>
 
 - - - -
 ### 主な利用シーン・利用目的
 - - - -
-1. 利用シーン
+1. 利用シーン <br>
 &nbsp; ・ 日常生活すべて
 <br>
 
@@ -66,6 +69,7 @@
 &nbsp; ・ 現在のお財布状況を詳しく知る。<br>
 &nbsp; ・ 知らず知らずのうちに貯金ができている。<br>
 &nbsp; ・ 今使える金額を知ることで余計な出費を減らす。
+<br>
 <br>
 <br>
 
@@ -76,20 +80,21 @@
 <...>
 <br>
 <br>
+<br>
 
 - - - -
 ### チャレンジ要素一覧
 <https://docs.google.com/spreadsheets/d/1f0yRb-TR6_oLha1oqq7Ct5zMRAMozhX5-XvnqAmnQC8/edit?usp=sharing>
 <br>
 <br>
+<br>
 
 - - - -
 ### 開発環境
 - - - -
-*  OS：Linux(CentOS)</p>
+*  OS：Linux(CentOS), MacOS
 *  言語：HTML,CSS,JavaScript,Ruby,SQL
 *  フレームワーク：Ruby on Rails
 *  JSライブラリ：jQuery
 *  IDE：Cloud9
-<br>
-<br>
+*  エディタ：VSCode
