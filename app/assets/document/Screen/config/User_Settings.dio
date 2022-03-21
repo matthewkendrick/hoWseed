@@ -1,6 +1,6 @@
 <mxfile host="65bd71144e">
     <diagram id="mhVGNM03eQkajhlVQlf7" name="ページ1">
-        <mxGraphModel dx="2258" dy="385" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+        <mxGraphModel dx="2711" dy="673" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
             <root>
                 <mxCell id="0"/>
                 <mxCell id="1" parent="0"/>
@@ -37,87 +37,119 @@
                 <mxCell id="21" value="LOGO" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=5;strokeColor=#F8F9FA;strokeWidth=1;fillColor=none;fontColor=#00FF00;whiteSpace=wrap;align=center;verticalAlign=middle;spacingLeft=0;fontStyle=0;fontSize=64;spacing=5;sketch=0;" parent="1" vertex="1">
                     <mxGeometry x="224.99999999999994" y="183" width="430" height="160" as="geometry"/>
                 </mxCell>
-                <mxCell id="22" value="" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=5;fillColor=#FFFFFF;strokeColor=#999999;fontSize=72;fontColor=#00CC00;" parent="1" vertex="1">
-                    <mxGeometry x="223.05999999999995" y="343" width="430" height="400" as="geometry"/>
-                </mxCell>
-                <mxCell id="23" value="First name" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=5;fillColor=none;strokeColor=#999999;align=left;spacing=15;fontSize=14;fontColor=#6C767D;" parent="22" vertex="1">
-                    <mxGeometry width="180" height="50" relative="1" as="geometry">
-                        <mxPoint x="30" y="90" as="offset"/>
-                    </mxGeometry>
-                </mxCell>
-                <mxCell id="24" value="Password" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=5;fillColor=none;strokeColor=#999999;align=left;spacing=15;fontSize=14;fontColor=#6C767D;" parent="22" vertex="1">
-                    <mxGeometry width="370" height="50" relative="1" as="geometry">
-                        <mxPoint x="30" y="216" as="offset"/>
-                    </mxGeometry>
-                </mxCell>
-                <mxCell id="25" value="" style="shape=line;strokeColor=#999999;perimeter=none;resizeWidth=1;fontSize=72;fontColor=#00CC00;strokeWidth=2;sketch=0;" parent="22" vertex="1">
-                    <mxGeometry width="406.7567567567568" height="10" relative="1" as="geometry">
-                        <mxPoint x="10" y="70" as="offset"/>
-                    </mxGeometry>
-                </mxCell>
-                <mxCell id="26" value="Sign Up" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=5;strokeColor=none;strokeWidth=1;fillColor=#00CC00;fontColor=#FFFFFF;whiteSpace=wrap;align=center;verticalAlign=middle;spacingLeft=0;fontStyle=1;fontSize=14;spacing=5;" parent="22" vertex="1">
-                    <mxGeometry x="113.8818918918919" y="317.0019634333444" width="202.22783783783782" height="36.9047619047619" as="geometry"/>
-                </mxCell>
-                <mxCell id="27" value="Last name" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=5;fillColor=none;strokeColor=#999999;align=left;spacing=15;fontSize=14;fontColor=#6C767D;" parent="22" vertex="1">
-                    <mxGeometry width="180" height="50" relative="1" as="geometry">
-                        <mxPoint x="220" y="90" as="offset"/>
-                    </mxGeometry>
-                </mxCell>
-                <mxCell id="28" value="Email address" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=5;fillColor=none;strokeColor=#999999;align=left;spacing=15;fontSize=14;fontColor=#6C767D;" parent="22" vertex="1">
-                    <mxGeometry width="370" height="50" relative="1" as="geometry">
-                        <mxPoint x="30" y="153" as="offset"/>
-                    </mxGeometry>
-                </mxCell>
-                <mxCell id="29" value="Sign Up" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=5;strokeColor=none;strokeWidth=1;fillColor=none;fontColor=#000000;whiteSpace=wrap;align=center;verticalAlign=middle;spacingLeft=0;fontStyle=0;fontSize=32;spacing=5;sketch=0;" parent="22" vertex="1">
-                    <mxGeometry x="23.243243243243242" y="21.097901600160228" width="151.0810810810811" height="48.707639287765645" as="geometry"/>
-                </mxCell>
-                <mxCell id="30" value="" style="shape=umlDestroy;shadow=0;sketch=0;fontSize=32;fontColor=#000000;strokeWidth=2;fillColor=none;" parent="22" vertex="1">
-                    <mxGeometry x="380" y="28.155843690195002" width="30" height="30" as="geometry"/>
-                </mxCell>
                 <mxCell id="34" value="" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=5;strokeColor=#6C767D;html=1;whiteSpace=wrap;fillColor=#ffffff;fontColor=#212529;verticalAlign=bottom;align=left;spacing=20;spacingBottom=0;fontSize=14;" parent="1" vertex="1">
-                    <mxGeometry x="-1150" y="343" width="800.01" height="200" as="geometry"/>
+                    <mxGeometry x="-1150" y="343" width="800.02" height="320" as="geometry"/>
                 </mxCell>
                 <mxCell id="35" value="&amp;nbsp;Account Details" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.topButton;rSize=5;perimeter=none;whiteSpace=wrap;fillColor=#CCCCCC;strokeColor=#6C767D;fontColor=#FFFFFF;resizeWidth=1;fontSize=32;align=left;spacing=20;fontStyle=0" parent="34" vertex="1">
                     <mxGeometry width="800" height="40" relative="1" as="geometry"/>
                 </mxCell>
-                <mxCell id="37" value="&lt;span style=&quot;white-space: pre&quot;&gt;&#9;&lt;/span&gt;sample@sample.com" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=5;strokeColor=none;strokeWidth=1;fillColor=none;fontColor=#343A40;whiteSpace=wrap;align=left;verticalAlign=middle;spacingLeft=0;fontStyle=1;fontSize=16;spacing=5;" parent="34" vertex="1">
-                    <mxGeometry x="-9.0951551845464e-15" y="40.50185185185188" width="800" height="80" as="geometry"/>
-                </mxCell>
-                <mxCell id="40" value="&lt;span style=&quot;white-space: pre&quot;&gt;&#9;&lt;/span&gt;Password : *********" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=5;strokeColor=none;strokeWidth=1;fillColor=none;fontColor=#343A40;whiteSpace=wrap;align=left;verticalAlign=middle;spacingLeft=0;fontStyle=1;fontSize=16;spacing=5;" parent="34" vertex="1">
-                    <mxGeometry x="0.009999999999990905" y="120.00185185185188" width="800" height="80" as="geometry"/>
-                </mxCell>
                 <mxCell id="51" value="" style="line;strokeWidth=1;html=1;shadow=0;fontSize=32;fontColor=#FFFFFF;fillColor=none;gradientColor=none;strokeColor=#CCCCCC;" parent="34" vertex="1">
-                    <mxGeometry x="0.01" y="114.16666666666667" width="799.99" height="8.333333333333334" as="geometry"/>
+                    <mxGeometry x="-0.01" y="121.00666666666669" width="799.99" height="13.333333333333334" as="geometry"/>
                 </mxCell>
                 <mxCell id="45" value="" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.radioButton2;labelPosition=right;verticalLabelPosition=middle;align=left;verticalAlign=middle;gradientColor=none;fillColor=#CCCCCC;checked=0;spacing=5;checkedFill=#0085FC;checkedStroke=#ffffff;sketch=0;fontSize=32;fontColor=#FFFFFF;strokeColor=default;" parent="34" vertex="1">
-                    <mxGeometry x="717" y="60.5" width="40" height="40" as="geometry"/>
+                    <mxGeometry x="716.99" y="63" width="40" height="40" as="geometry"/>
                 </mxCell>
                 <mxCell id="47" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://cdn-icons-png.flaticon.com/512/61/61456.png;" parent="34" vertex="1">
-                    <mxGeometry x="727.0047058823529" y="70.50176470588247" width="20" height="20" as="geometry"/>
+                    <mxGeometry x="726.994705882353" y="73.00176470588247" width="20" height="20" as="geometry"/>
+                </mxCell>
+                <mxCell id="40" value="&lt;span style=&quot;white-space: pre&quot;&gt;&#9;&lt;/span&gt;Password : *********" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=5;strokeColor=none;strokeWidth=1;fillColor=none;fontColor=#343A40;whiteSpace=wrap;align=left;verticalAlign=middle;spacingLeft=0;fontStyle=1;fontSize=16;spacing=5;" parent="34" vertex="1">
+                    <mxGeometry x="-0.02000000000001819" y="134.34185185185189" width="800" height="80" as="geometry"/>
                 </mxCell>
                 <mxCell id="52" value="" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.radioButton2;labelPosition=right;verticalLabelPosition=middle;align=left;verticalAlign=middle;gradientColor=none;fillColor=#CCCCCC;checked=0;spacing=5;checkedFill=#0085FC;checkedStroke=#ffffff;sketch=0;fontSize=32;fontColor=#FFFFFF;strokeColor=default;" parent="34" vertex="1">
-                    <mxGeometry x="717" y="140" width="40" height="40" as="geometry"/>
+                    <mxGeometry x="716.99" y="142.5" width="40" height="40" as="geometry"/>
                 </mxCell>
                 <mxCell id="53" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://cdn-icons-png.flaticon.com/512/61/61456.png;" parent="34" vertex="1">
-                    <mxGeometry x="727.0047058823529" y="150.00176470588247" width="20" height="20" as="geometry"/>
+                    <mxGeometry x="726.994705882353" y="152.50176470588247" width="20" height="20" as="geometry"/>
+                </mxCell>
+                <mxCell id="37" value="&lt;span style=&quot;white-space: pre&quot;&gt;&#9;&lt;/span&gt;sample@sample.com" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=5;strokeColor=none;strokeWidth=1;fillColor=none;fontColor=#343A40;whiteSpace=wrap;align=left;verticalAlign=middle;spacingLeft=0;fontStyle=1;fontSize=16;spacing=5;" parent="34" vertex="1">
+                    <mxGeometry x="-0.020000000000009094" y="41.001851851851825" width="800" height="80" as="geometry"/>
+                </mxCell>
+                <mxCell id="81" value="退会する" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=5;strokeColor=none;strokeWidth=1;fillColor=none;fontColor=#B3B3B3;whiteSpace=wrap;align=center;verticalAlign=middle;spacingLeft=0;fontStyle=1;fontSize=16;spacing=5;" vertex="1" parent="34">
+                    <mxGeometry x="-0.020123456790130945" y="227.68222222222226" width="800" height="80" as="geometry"/>
+                </mxCell>
+                <mxCell id="83" value="" style="line;strokeWidth=1;html=1;shadow=0;fontSize=32;fontColor=#FFFFFF;fillColor=none;gradientColor=none;strokeColor=#CCCCCC;" vertex="1" parent="34">
+                    <mxGeometry x="0.03000000000000025" y="214.3466666666667" width="799.99" height="13.333333333333334" as="geometry"/>
                 </mxCell>
                 <mxCell id="36" value="Account" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=5;strokeColor=none;strokeWidth=1;fillColor=none;fontColor=#343A40;whiteSpace=wrap;align=left;verticalAlign=middle;spacingLeft=0;fontStyle=0;fontSize=48;spacing=5;" parent="1" vertex="1">
-                    <mxGeometry x="-1150" y="263" width="400" height="80" as="geometry"/>
+                    <mxGeometry x="-1150" y="257.75" width="800" height="80" as="geometry"/>
                 </mxCell>
                 <mxCell id="39" value="Log out" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=5;strokeColor=none;strokeWidth=1;fillColor=#DB2843;fontColor=#FFFFFF;whiteSpace=wrap;align=center;verticalAlign=middle;spacingLeft=0;fontStyle=0;fontSize=16;spacing=5;" parent="1" vertex="1">
                     <mxGeometry x="-470" y="283" width="80" height="40" as="geometry"/>
                 </mxCell>
                 <mxCell id="41" value="" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=5;strokeColor=#6C767D;html=1;whiteSpace=wrap;fillColor=#ffffff;fontColor=#212529;verticalAlign=bottom;align=left;spacing=20;spacingBottom=0;fontSize=14;" parent="1" vertex="1">
-                    <mxGeometry x="-1150" y="620" width="800.01" height="240" as="geometry"/>
+                    <mxGeometry x="-1150" y="700" width="800" height="240" as="geometry"/>
                 </mxCell>
                 <mxCell id="42" value="Settings" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.topButton;rSize=5;perimeter=none;whiteSpace=wrap;fillColor=#CCCCCC;strokeColor=#6C767D;fontColor=#FFFFFF;resizeWidth=1;fontSize=32;align=left;spacing=20;fontStyle=0" parent="41" vertex="1">
                     <mxGeometry width="800" height="50" relative="1" as="geometry"/>
                 </mxCell>
-                <mxCell id="43" value="&lt;span style=&quot;white-space: pre&quot;&gt;&#9;&lt;/span&gt;sample@sample.com" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=5;strokeColor=none;strokeWidth=1;fillColor=none;fontColor=#343A40;whiteSpace=wrap;align=left;verticalAlign=middle;spacingLeft=0;fontStyle=1;fontSize=16;spacing=5;" parent="41" vertex="1">
-                    <mxGeometry x="0.009999999999990905" y="67.00222222222226" width="800" height="80" as="geometry"/>
+                <mxCell id="43" value="&lt;span style=&quot;white-space: pre&quot;&gt;&#9;&lt;/span&gt;固定費" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=5;strokeColor=none;strokeWidth=1;fillColor=none;fontColor=#343A40;whiteSpace=wrap;align=left;verticalAlign=middle;spacingLeft=0;fontStyle=1;fontSize=16;spacing=5;" parent="41" vertex="1">
+                    <mxGeometry x="0.01" y="47" width="799.99" height="80" as="geometry"/>
                 </mxCell>
-                <mxCell id="44" value="&lt;span style=&quot;white-space: pre&quot;&gt;&#9;&lt;/span&gt;Password : *********" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=5;strokeColor=none;strokeWidth=1;fillColor=none;fontColor=#343A40;whiteSpace=wrap;align=left;verticalAlign=middle;spacingLeft=0;fontStyle=1;fontSize=16;spacing=5;" parent="41" vertex="1">
-                    <mxGeometry x="0.009999999999990905" y="147.00222222222226" width="800" height="80" as="geometry"/>
+                <mxCell id="54" value="&lt;span style=&quot;white-space: pre&quot;&gt;&#9;&lt;/span&gt;カテゴリー" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=5;strokeColor=none;strokeWidth=1;fillColor=none;fontColor=#343A40;whiteSpace=wrap;align=left;verticalAlign=middle;spacingLeft=0;fontStyle=1;fontSize=16;spacing=5;" parent="41" vertex="1">
+                    <mxGeometry x="0.01" y="135.33" width="799.99" height="80" as="geometry"/>
+                </mxCell>
+                <mxCell id="67" value="" style="line;strokeWidth=1;html=1;shadow=0;fontSize=32;fontColor=#FFFFFF;fillColor=none;gradientColor=none;strokeColor=#CCCCCC;" parent="41" vertex="1">
+                    <mxGeometry y="126.99999999999999" width="800" height="8.33" as="geometry"/>
+                </mxCell>
+                <mxCell id="68" value="" style="html=1;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;shadow=0;dashed=0;strokeWidth=3;shape=mxgraph.ios7.misc.down;strokeColor=#B3B3B3;fontSize=40;fontColor=#000000;fillColor=none;gradientColor=none;direction=north;" parent="41" vertex="1">
+                    <mxGeometry x="726" y="67.00000000000011" width="20" height="40" as="geometry"/>
+                </mxCell>
+                <mxCell id="69" value="" style="html=1;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;shadow=0;dashed=0;strokeWidth=3;shape=mxgraph.ios7.misc.down;strokeColor=#B3B3B3;fontSize=40;fontColor=#000000;fillColor=none;gradientColor=none;direction=north;" parent="41" vertex="1">
+                    <mxGeometry x="726" y="155.33000000000013" width="20" height="40" as="geometry"/>
+                </mxCell>
+                <mxCell id="55" value="" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=5;strokeColor=#6C767D;html=1;whiteSpace=wrap;fillColor=#ffffff;fontColor=#212529;verticalAlign=bottom;align=left;spacing=20;spacingBottom=0;fontSize=14;" parent="1" vertex="1">
+                    <mxGeometry x="238.06" y="400" width="400" height="200" as="geometry"/>
+                </mxCell>
+                <mxCell id="56" value="&amp;nbsp;Account Details" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.topButton;rSize=5;perimeter=none;whiteSpace=wrap;fillColor=#CCCCCC;strokeColor=#6C767D;fontColor=#FFFFFF;resizeWidth=1;fontSize=32;align=left;spacing=20;fontStyle=0" parent="55" vertex="1">
+                    <mxGeometry width="399.99500006249923" height="40" relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="57" value="&lt;span style=&quot;white-space: pre&quot;&gt;&#9;&lt;/span&gt;sample@sample.com" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=5;strokeColor=none;strokeWidth=1;fillColor=none;fontColor=#343A40;whiteSpace=wrap;align=left;verticalAlign=middle;spacingLeft=0;fontStyle=1;fontSize=16;spacing=5;" parent="55" vertex="1">
+                    <mxGeometry x="-4.5475207482638466e-15" y="40.50185185185188" width="399.99500006249923" height="80" as="geometry"/>
+                </mxCell>
+                <mxCell id="58" value="&lt;span style=&quot;white-space: pre&quot;&gt;&#9;&lt;/span&gt;Password : *********" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=5;strokeColor=none;strokeWidth=1;fillColor=none;fontColor=#343A40;whiteSpace=wrap;align=left;verticalAlign=middle;spacingLeft=0;fontStyle=1;fontSize=16;spacing=5;" parent="55" vertex="1">
+                    <mxGeometry x="0.004999937500776693" y="120.00185185185188" width="399.99500006249923" height="80" as="geometry"/>
+                </mxCell>
+                <mxCell id="59" value="" style="line;strokeWidth=1;html=1;shadow=0;fontSize=32;fontColor=#FFFFFF;fillColor=none;gradientColor=none;strokeColor=#CCCCCC;" parent="55" vertex="1">
+                    <mxGeometry x="0.0049999375007812406" y="114.16666666666667" width="399.99000012499846" height="8.333333333333334" as="geometry"/>
+                </mxCell>
+                <mxCell id="60" value="" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.radioButton2;labelPosition=right;verticalLabelPosition=middle;align=left;verticalAlign=middle;gradientColor=none;fillColor=#CCCCCC;checked=0;spacing=5;checkedFill=#0085FC;checkedStroke=#ffffff;sketch=0;fontSize=32;fontColor=#FFFFFF;strokeColor=default;" parent="55" vertex="1">
+                    <mxGeometry x="358.4955188060149" y="65.5" width="20" height="20" as="geometry"/>
+                </mxCell>
+                <mxCell id="61" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://cdn-icons-png.flaticon.com/512/61/61456.png;" parent="55" vertex="1">
+                    <mxGeometry x="363.49780921856126" y="70.50176470588247" width="10" height="10" as="geometry"/>
+                </mxCell>
+                <mxCell id="62" value="" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.radioButton2;labelPosition=right;verticalLabelPosition=middle;align=left;verticalAlign=middle;gradientColor=none;fillColor=#CCCCCC;checked=0;spacing=5;checkedFill=#0085FC;checkedStroke=#ffffff;sketch=0;fontSize=32;fontColor=#FFFFFF;strokeColor=default;" parent="55" vertex="1">
+                    <mxGeometry x="358.4955188060149" y="145" width="20" height="20" as="geometry"/>
+                </mxCell>
+                <mxCell id="63" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://cdn-icons-png.flaticon.com/512/61/61456.png;" parent="55" vertex="1">
+                    <mxGeometry x="363.49780921856126" y="150.00176470588247" width="10" height="10" as="geometry"/>
+                </mxCell>
+                <mxCell id="64" value="Account" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=5;strokeColor=none;strokeWidth=1;fillColor=none;fontColor=#343A40;whiteSpace=wrap;align=left;verticalAlign=middle;spacingLeft=0;fontStyle=0;fontSize=32;spacing=5;" parent="1" vertex="1">
+                    <mxGeometry x="238.05999999999995" y="320" width="400" height="80" as="geometry"/>
+                </mxCell>
+                <mxCell id="65" value="Log out" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=5;strokeColor=none;strokeWidth=1;fillColor=#DB2843;fontColor=#FFFFFF;whiteSpace=wrap;align=center;verticalAlign=middle;spacingLeft=0;fontStyle=0;fontSize=16;spacing=5;" parent="1" vertex="1">
+                    <mxGeometry x="558.06" y="340" width="80" height="40" as="geometry"/>
+                </mxCell>
+                <mxCell id="70" value="" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=5;strokeColor=#6C767D;html=1;whiteSpace=wrap;fillColor=#ffffff;fontColor=#212529;verticalAlign=bottom;align=left;spacing=20;spacingBottom=0;fontSize=14;" parent="1" vertex="1">
+                    <mxGeometry x="240" y="650" width="400" height="240" as="geometry"/>
+                </mxCell>
+                <mxCell id="71" value="Settings" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.topButton;rSize=5;perimeter=none;whiteSpace=wrap;fillColor=#CCCCCC;strokeColor=#6C767D;fontColor=#FFFFFF;resizeWidth=1;fontSize=32;align=left;spacing=20;fontStyle=0" parent="70" vertex="1">
+                    <mxGeometry width="400" height="50" relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="72" value="&lt;span style=&quot;white-space: pre&quot;&gt;&#9;&lt;/span&gt;固定費" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=5;strokeColor=none;strokeWidth=1;fillColor=none;fontColor=#343A40;whiteSpace=wrap;align=left;verticalAlign=middle;spacingLeft=0;fontStyle=1;fontSize=16;spacing=5;" parent="70" vertex="1">
+                    <mxGeometry x="0.00493827160493378" y="67.00222222222226" width="400" height="80" as="geometry"/>
+                </mxCell>
+                <mxCell id="73" value="&lt;span style=&quot;white-space: pre&quot;&gt;&#9;&lt;/span&gt;カテゴリー" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=5;strokeColor=none;strokeWidth=1;fillColor=none;fontColor=#343A40;whiteSpace=wrap;align=left;verticalAlign=middle;spacingLeft=0;fontStyle=1;fontSize=16;spacing=5;" parent="70" vertex="1">
+                    <mxGeometry x="0.00493827160493378" y="147.00222222222226" width="400" height="80" as="geometry"/>
+                </mxCell>
+                <mxCell id="74" value="" style="line;strokeWidth=1;html=1;shadow=0;fontSize=32;fontColor=#FFFFFF;fillColor=none;gradientColor=none;strokeColor=#CCCCCC;" parent="70" vertex="1">
+                    <mxGeometry y="147.00666666666666" width="395.0567901234568" height="8.333333333333334" as="geometry"/>
+                </mxCell>
+                <mxCell id="75" value="" style="html=1;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;shadow=0;dashed=0;strokeWidth=3;shape=mxgraph.ios7.misc.down;strokeColor=#B3B3B3;fontSize=40;fontColor=#000000;fillColor=none;gradientColor=none;direction=north;" parent="70" vertex="1">
+                    <mxGeometry x="363" y="97.00000000000011" width="10" height="20" as="geometry"/>
+                </mxCell>
+                <mxCell id="77" value="" style="html=1;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;shadow=0;dashed=0;strokeWidth=3;shape=mxgraph.ios7.misc.down;strokeColor=#B3B3B3;fontSize=40;fontColor=#000000;fillColor=none;gradientColor=none;direction=north;" parent="70" vertex="1">
+                    <mxGeometry x="363" y="177.0000000000001" width="10" height="20" as="geometry"/>
                 </mxCell>
             </root>
         </mxGraphModel>
