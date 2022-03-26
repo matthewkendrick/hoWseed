@@ -13,7 +13,7 @@
 | id          |   支出ID   |   X    | &nbsp; |   int    |    X     |     &nbsp;     | &nbsp; | &nbsp;  | &nbsp; |
 | user_id     | ユーザーID | &nbsp; |   X    |   int    |    X     |     &nbsp;     | &nbsp; | &nbsp;  | &nbsp; |
 | amount      |    金額    | &nbsp; | &nbsp; |   int    |    X     |     &nbsp;     | &nbsp; | &nbsp;  | &nbsp; |
-| quantity    |    数量    | &nbsp; | &nbsp; |   text   |    X     |     &nbsp;     | &nbsp; | &nbsp;  | &nbsp; |
+| quantity    |    数量    | &nbsp; | &nbsp; |   int    |    X     |     &nbsp;     | &nbsp; | &nbsp;  | &nbsp; |
 | description |    説明    | &nbsp; | &nbsp; |   text   |    X     |     &nbsp;     | &nbsp; | &nbsp;  | &nbsp; |
 | updated_at  |  更新日時  | &nbsp; | &nbsp; | datetime |    X     |     &nbsp;     | &nbsp; | &nbsp;  | &nbsp; |
 | created_at  |  作成日時  | &nbsp; | &nbsp; | datetime |    X     |     &nbsp;     | &nbsp; | &nbsp;  | &nbsp; |
