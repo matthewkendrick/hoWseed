@@ -10,8 +10,6 @@
 | カラム名           |   カラム説明   |   PK   |   FK   | データ型 | NOT NULL | AUTO INCREMENT | INDEX  | DEFAULT |  備考  |
 | :----------------- | :------------: | :----: | :----: | :------: | :------: | :------------: | :----: | :-----: | :----: |
 | id                 |   ユーザーID   |   X    | &nbsp; |   int    |    X     |     &nbsp;     | &nbsp; | &nbsp;  | &nbsp; |
-| income_id          |     収入ID     | &nbsp; |   X    |   int    |    X     |     &nbsp;     | &nbsp; | &nbsp;  | &nbsp; |
-| expense_id         |     支出ID     | &nbsp; |   X    |   int    |    X     |     &nbsp;     | &nbsp; | &nbsp;  | &nbsp; |
 | first_name         |       姓       | &nbsp; | &nbsp; |  string  |    X     |     &nbsp;     | &nbsp; | &nbsp;  | &nbsp; |
 | last_name          |       名       | &nbsp; | &nbsp; |  string  |    X     |     &nbsp;     | &nbsp; | &nbsp;  | &nbsp; |
 | mail_address       | メールアドレス | &nbsp; | &nbsp; |  string  |    X     |     &nbsp;     | &nbsp; | &nbsp;  | &nbsp; |
