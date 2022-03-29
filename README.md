@@ -22,7 +22,7 @@
 <br>
 そしてそれを囲うリングでは今日使った金額が、 <br>
 目標金額(ニセの金額)に対して何%使っているかが表示されます。<br>
-
+<br>
 <table>
   <tr align="center"><td><strong>目標金額(ニセ)</td><td><strong>実際に使った金額</td></tr>
   <tr align="center"><td>500</td><td>300</td></tr>
@@ -77,19 +77,26 @@
 ### 設計書
 - - - -
 <!-- WARNING(以下は全てGoogle Driveにアップロードしてそのリンクを貼り付ける) -->
+
+<ul>
+  <li>
 <!-- TODO(ER図を貼り付ける) -->
-
-<br>
-
-<!-- TODO(テーブル定義書を貼り付ける) -->
-
-<br>
-
+    <a href="URL">ER図</a>
+  </li>
+  <li id="table1">
+    <a href="https://drive.google.com/drive/folders/1nG9Xo884CZ7vGBBu7nnqqAfcr8_qg-Kx?usp=sharing">テーブル定義書</a>
+  </li>
 <!-- TODO(詳細設計書を貼り付ける) -->
-
-<br>
-
+  <li>
+    <a href="URL">詳細設計書</a>
+  </li>
 <!-- TODO(画面遷移図を貼り付ける) -->
+  <li>
+    <a href="URL">画面遷移図</a>
+  </li>
+</ul>
+
+
 
 <br>
 <br>
@@ -97,7 +104,8 @@
 
 - - - -
 ### チャレンジ要素一覧
-<https://docs.google.com/spreadsheets/d/1f0yRb-TR6_oLha1oqq7Ct5zMRAMozhX5-XvnqAmnQC8/edit?usp=sharing>
+- - - -
+- <https://docs.google.com/spreadsheets/d/1f0yRb-TR6_oLha1oqq7Ct5zMRAMozhX5-XvnqAmnQC8/edit?usp=sharing>
 <br>
 <br>
 <br>
