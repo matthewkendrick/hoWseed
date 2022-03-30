@@ -78,7 +78,6 @@
 
 <ul>
   <li>
-<!-- TODO(ER図を貼り付ける) -->
     <a href="https://drive.google.com/drive/folders/1B3uiFHvUhm6pywVDB7dh7AZsYnqUULzc?usp=sharing" style="text-decoration:none">ER図</a>
   </li>
   <li id="table1">
@@ -88,9 +87,8 @@
   <li>
     <a href="URL" style="text-decoration:none">詳細設計書</a>
   </li>
-<!-- TODO(画面遷移図を貼り付ける) -->
   <li>
-    <a href="URL" style="text-decoration:none">画面遷移図</a>
+    <a href="https://drive.google.com/drive/folders/1SbClam13e0sTx_0pyUORZzD-D_RincnR?usp=sharing" style="text-decoration:none">画面遷移図</a>
   </li>
 </ul>
 

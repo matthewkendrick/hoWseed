@@ -1,6 +1,6 @@
 <mxfile host="65bd71144e">
     <diagram id="p1rvYwEbnAzYVfQf-WSt" name="ページ1">
-        <mxGraphModel dx="11440" dy="5563" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+        <mxGraphModel dx="20950" dy="10418" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="#FFFFFF" math="0" shadow="0">
             <root>
                 <mxCell id="0"/>
                 <mxCell id="1" parent="0"/>
@@ -1919,7 +1919,7 @@
                 <mxCell id="651" value="カテゴリーの新規登録ボタンを押したとき" style="ellipse;whiteSpace=wrap;html=1;shadow=1;fontSize=120;strokeColor=#80FF00;strokeWidth=20;fillColor=#80FF00;opacity=70;fontColor=#FFFFFF;" parent="1" vertex="1">
                     <mxGeometry x="4176" y="11650" width="1200" height="800" as="geometry"/>
                 </mxCell>
-                <mxCell id="653" value="" style="edgeStyle=orthogonalEdgeStyle;elbow=horizontal;endArrow=none;html=1;fontSize=120;strokeWidth=20;strokeColor=#808080;startArrow=none;endFill=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="610" edge="1" target="690">
+                <mxCell id="653" value="" style="edgeStyle=orthogonalEdgeStyle;elbow=horizontal;endArrow=none;html=1;fontSize=120;strokeWidth=20;strokeColor=#808080;startArrow=none;endFill=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="610" target="690" edge="1">
                     <mxGeometry width="50" height="50" relative="1" as="geometry">
                         <mxPoint x="-3617.9300000000003" y="10440" as="sourcePoint"/>
                         <mxPoint x="-2620" y="12160" as="targetPoint"/>
@@ -2044,10 +2044,10 @@
                         </Array>
                     </mxGeometry>
                 </mxCell>
-                <mxCell id="690" value="固定費の新規登録ボタンを押したとき" style="ellipse;whiteSpace=wrap;html=1;shadow=1;fontSize=120;strokeColor=#808080;strokeWidth=20;fillColor=#808080;opacity=70;fontColor=#FFFFFF;" vertex="1" parent="1">
+                <mxCell id="690" value="固定費の新規登録ボタンを押したとき" style="ellipse;whiteSpace=wrap;html=1;shadow=1;fontSize=120;strokeColor=#808080;strokeWidth=20;fillColor=#808080;opacity=70;fontColor=#FFFFFF;" parent="1" vertex="1">
                     <mxGeometry x="-3220" y="11753" width="1200" height="800" as="geometry"/>
                 </mxCell>
-                <mxCell id="691" value="" style="edgeStyle=orthogonalEdgeStyle;elbow=horizontal;endArrow=none;html=1;fontSize=120;strokeWidth=20;strokeColor=#808080;startArrow=none;" edge="1" parent="1" source="614" target="690">
+                <mxCell id="691" value="" style="edgeStyle=orthogonalEdgeStyle;elbow=horizontal;endArrow=none;html=1;fontSize=120;strokeWidth=20;strokeColor=#808080;startArrow=none;" parent="1" source="614" target="690" edge="1">
                     <mxGeometry width="50" height="50" relative="1" as="geometry">
                         <mxPoint x="-2620" y="10160" as="sourcePoint"/>
                         <mxPoint x="-2620" y="13010" as="targetPoint"/>
