@@ -1,0 +1,2 @@
+class BalanceRingsController < ApplicationController
+end
