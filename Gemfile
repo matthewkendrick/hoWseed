@@ -56,10 +56,10 @@ end
 gem 'tzinfo-data', platforms: [:mingw, :mswin, :x64_mingw, :jruby]
 
 gem 'devise'
-gem 'bootstrap'
+gem 'bootstrap', '~> 4.5'
 gem 'bootstrap_form'
 gem 'jquery-rails'
-gem 'kaminari'
+gem 'kaminari', '~>1.2.1'
 gem 'better_errors'
 gem 'groupdate'
 gem 'chartkick'

@@ -2,8 +2,8 @@
 
 | WBS  | Categories&nbsp;and&nbsp;Tasks                                            | Start      | Finish     | 工数(h) |                       Progress                        |
 | ---- | ------------------------------------------------------------------------- | ---------- | ---------- | ------: | :---------------------------------------------------: |
-| 1    | &nbsp;                                                                    | 2022/04/01 | 2022/04/25 |  150.00 | ![progress](https://progress-bar.dev/21/ "progress")  |
-| 2    | <span style= "color:#007bff; font-size:20px"><strong><設計></span>        | &nbsp;     | &nbsp;     |       - | ![progress](https://progress-bar.dev/83/ "progress")  |
+| 1    | &nbsp;                                                                    | 2022/04/01 | 2022/04/25 |  150.00 | ![progress](https://progress-bar.dev/22/ "progress")  |
+| 2    | <span style= "color:#007bff; font-size:20px"><strong><設計></span>        | &nbsp;     | &nbsp;     |       - | ![progress](https://progress-bar.dev/88/ "progress")  |
 | 3    | <strong>基本設計                                                          | 2022/04/01 | 2022/04/01 |       - | ![progress](https://progress-bar.dev/100/ "progress") |
 | 3.1  | テーマ策定                                                                | 2022/04/01 | 2022/04/01 |       - | ![progress](https://progress-bar.dev/100/ "progress") |
 | 3.2  | 機能一覧                                                                  | 2022/04/01 | 2022/04/01 |       3 | ![progress](https://progress-bar.dev/100/ "progress") |
@@ -13,13 +13,13 @@
 | 5    | DB設計                                                                    | 2022/04/03 | 2022/04/04 |       - | ![progress](https://progress-bar.dev/100/ "progress") |
 | 5.1  | ER図                                                                      | 2022/04/03 | 2022/04/04 |   12.00 | ![progress](https://progress-bar.dev/100/ "progress") |
 | 5.2  | テーブル定義書                                                            | 2022/04/03 | 2022/04/04 |    2.00 | ![progress](https://progress-bar.dev/100/ "progress") |
-| 6    | <strong>詳細設計                                                          | 2022/04/05 | 2022/04/07 |       - | ![progress](https://progress-bar.dev/33/ "progress")  |
+| 6    | <strong>詳細設計                                                          | 2022/04/05 | 2022/04/07 |       - | ![progress](https://progress-bar.dev/50/ "progress")  |
 | 6.1  | 詳細設計書                                                                | 2022/04/05 | 2022/04/06 |    6.00 |  ![progress](https://progress-bar.dev/0/ "progress")  |
 | 6.2  | gem                                                                       | 2022/04/07 | 2022/04/07 |    1.00 | ![progress](https://progress-bar.dev/100/ "progress") |
-| 6.3  | controller                                                                | 2022/04/07 | 2022/04/07 |    1.00 |  ![progress](https://progress-bar.dev/0/ "progress")  |
+| 6.3  | controller                                                                | 2022/04/07 | 2022/04/07 |    1.00 | ![progress](https://progress-bar.dev/100/ "progress") |
 | 6.4  | model                                                                     | 2022/04/07 | 2022/04/07 |    1.00 | ![progress](https://progress-bar.dev/100/ "progress") |
 | 6.5  | routing                                                                   | 2022/04/07 | 2022/04/07 |    1.00 |  ![progress](https://progress-bar.dev/0/ "progress")  |
-| 7    | <span style= "color:#007bff;font-size:20px"><strong><実装></span>         | &nbsp;     | &nbsp;     |       - |  ![progress](https://progress-bar.dev/0/ "progress")  |
+| 7    | <span style= "color:#007bff;font-size:20px"><strong><実装></span>         |            |            |       - |  ![progress](https://progress-bar.dev/0/ "progress")  |
 | 8    | <strong>機能                                                              | 2022/04/08 | 2022/04/18 |       - |  ![progress](https://progress-bar.dev/0/ "progress")  |
 | 8.1  | ユーザーの新規登録                                                        | 2022/04/08 | 2022/04/08 |    2.00 |  ![progress](https://progress-bar.dev/0/ "progress")  |
 | 8.2  | ログイン                                                                  | 2022/04/08 | 2022/04/08 |    2.00 |  ![progress](https://progress-bar.dev/0/ "progress")  |
