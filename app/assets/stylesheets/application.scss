@@ -143,9 +143,23 @@ main {
   width: auto;
 }
 
-.bg-img_top {
-  width: auto;
-  height: auto;
+.card {
+  margin-top: 3rem;
+  margin-bottom: 3rem;
+  border-radius: 16px;
+}
+
+.login-remember_me {
+  padding-top: 1rem;
+  padding-bottom: 1rem;
+}
+
+.login-subtext {
+  padding-bottom: 1rem;
+}
+
+.actions {
+  text-align: center;
 }
 
 footer {
