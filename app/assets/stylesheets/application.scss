@@ -151,14 +151,27 @@ main {
 
 .login-remember_me {
   padding-top: 1rem;
-  padding-bottom: 1rem;
 }
 
 .login-subtext {
   padding-bottom: 1rem;
 }
 
+.sign_up-subtext {
+  text-align: center;
+}
+
+.name-field {
+  display: flex;
+  width: 312px;
+}
+
+.name-space {
+  padding: 0 0.5rem;
+}
+
 .actions {
+  padding-top: 1rem;
   text-align: center;
 }
 
