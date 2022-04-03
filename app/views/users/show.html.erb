@@ -1,0 +1,26 @@
+<div class="container">
+  <div class="row">
+    <div class="col-md-5 mx-auto">今日使える金額</div>
+  </div>
+  <div class="row">
+    <div class="col-md-5 mx-auto">
+      <%= form_with model: @expenses, local:true do |f| %>
+        <div class="field card">
+          <div class="">
+            <%= f.date_field :date, class: "form-control" %>
+          </div>
+          <div class="">
+            <%= f.select :categories, placeholder: "選択してください", class: "form-select form-select-lg" %>
+            <%= f.text_field :amount, placeholder: "金額", class: "form-control" %>
+          </div>
+          <div class="">
+            <%= f.text_area :description, placeholder: "説明", class: "form-control" %>
+          </div>
+          <div style="text-align:center">
+            <%= f.submit "ADD", class: "btn btn-success w-50 mt-2" %>
+          </div>
+        </div>
+      <% end %>
+    </div>
+  </div>
+</div>
