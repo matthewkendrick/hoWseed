@@ -29,7 +29,7 @@
         <% if user_signed_in? %>
           <li id="for-logout-button"><a href="#">Contact</a></li>
           <span class="">
-            <li id="for-logout-button"><%= link_to "Settings", edit_user_registration_path, class: "text-secondary" %></li><br>
+            <li id="for-logout-button"><%= link_to "Settings", edit_user_registration_path(current_user.id), class: "text-secondary" %></li><br>
           </span>
           <li><%= button_to "ログアウト", destroy_user_session_path, method: :delete, class:"btn btn-outline-danger" %></li>
         <% else %>
