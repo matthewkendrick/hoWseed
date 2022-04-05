@@ -96,7 +96,7 @@ nav.globalMenuSp ul {
 nav.globalMenuSp ul li {
   list-style-type: none;
   padding: 0;
-  width: 100%;
+  max-width: 100%;
   border-bottom: 1px solid #fff;
   border-radius: 6px;
 }
@@ -172,6 +172,10 @@ main {
 .actions {
   padding-top: 1rem;
   text-align: center;
+}
+
+.jumbotron {
+  background-color: transparent;
 }
 
 footer {

@@ -1,6 +1,8 @@
+<section>
+  <div class="jumbotron my-auto w-auto">
     <div class="container">
-      <div class="col-md-5 mx-auto card bg-light">
-        <h2 style="padding:1.5rem 0; text-align:center;">Sign up</h2>
+      <div class="jumbotron col-lg-5 mx-auto bg-light border">
+        <h2>Sign up</h2>
         <div class="box mt-0">
           <% if @user.errors.any? %>
             <div id="error_explanation" class="alert alert-danger">
@@ -35,14 +37,14 @@
                 </span>
               <% end %><br />
             </div>
-            <div class="actions">
-              <%= f.submit "Sign up", class:"btn btn-success w-50" %>
+            <div class="actions" style="margin:2rem 0">
+              <%= f.submit "Sign up", class:"btn btn-success w-100" %>
             </div>
             <br>
 
             <p class="border border-secondary" style="opacity:0.5"></p>
             <p class="sign_up-subtext">
-            <%= link_to "Log in", new_user_session_path, class:"btn btn-outline-primary w-50" %>
+              <%= link_to "Log in", new_user_session_path, class:"btn btn-outline-primary mt-3 w-50" %>
             </p>
           <% end %>
           </div>

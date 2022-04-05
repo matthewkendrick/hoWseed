@@ -2,14 +2,18 @@
   <div class="row">
     <div class="col-md-5 mx-auto">今日使える金額</div>
   </div>
-  <div class="row">
-    <div class="col-md-5 mx-auto">
-      <%= form_with model: @expenses, local:true do |f| %>
-        <div class="field card">
+  <div class="jumbotron bg-white">
+    <div class="jumbotron col-lg-5 mx-auto my-auto bg-light">
+      <%= bootstrap_form_with model: @expenses, local:true do |f| %>
+        <h2>かんたん入力</h2><br>
+        <div class="field">
           <div class="">
-            <%= f.date_field :date, class: "form-control" %>
-          </div>
-          <div class="">
+            <%# <% if current_user.categories.empty? %> %>
+              <%# <p>You don't have categories created.</p> %>
+              <%# <%= link_to "Create a new Category", new_categoty_path %> %>
+            <%# <% else %> %>
+              <%# <%= f.select :categories_id, options_from_collection_for_select(Category.all, :id, :name), class: "form-control" %> %>
+            <%# <% end %> %>
             <%= f.select :categories, placeholder: "選択してください", class: "form-select form-select-lg" %>
             <%= f.text_field :amount, placeholder: "金額", class: "form-control" %>
           </div>

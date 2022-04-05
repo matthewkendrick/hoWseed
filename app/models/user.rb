@@ -7,4 +7,7 @@ class User < ApplicationRecord
   validates :last_name,   presence: true
   validates :first_name,  presence: true
   validates :email,       presence: true
+
+  has_many :expenses, dependent: :destroy
+  has_many :categories, dependent: :destroy
 end

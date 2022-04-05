@@ -1,0 +1,51 @@
+<div class="jumbotron">
+  <div class="container mx-auto my-auto">
+    <%= form_with model: @fixed_expense, url: fixed_expenses_path, local:true do |f| %>
+      <div class="form-row mb-3" style="display:flex; align-items:cener; justify-content:center;">
+        <div class="col-8 mr-3">
+          <%= f.text_field :name, placeholder: "固定費の新規登録", class:"form-control" %>
+        </div>
+        <span class="">
+          <%= f.submit "Add", class:"btn btn-success" %>
+        </span>
+        </div>
+      </div>
+      <div class="container">
+        <div class="row">
+          <div class="col-lg-12 mx-auto">
+            <table class="table table-striped">
+              <thead>
+                <tr>
+                  <th>固定費科目</th>
+                  <th>金額</th>
+                  <th>貯金</th>
+                </tr>
+              </thead>
+              <%# <%= @incomes.each do |income| %> %>
+                <tbody>
+                  <tr>
+                    <td>aaa</td>
+                    <td>aaa</td>
+                    <td>aaa</td>
+                  </tr>
+                  <tr>
+                    <td>aaa</td>
+                    <td>aaa</td>
+                    <td>aaa</td>
+                  </tr>
+                </tbody>
+              <%# <% end %> %>
+              <tfoot>
+                  <tr>
+                    <td>合計</td>
+                    <td>aaa</td>
+                    <td>aaa</td>
+                  </tr>
+              </tfoot>
+            </table>
+          </div>
+        </div>
+      </div>
+    <% end %>
+  </div>
+</div>

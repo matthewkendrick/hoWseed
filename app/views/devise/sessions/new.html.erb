@@ -1,10 +1,10 @@
 <section>
-  <div class="login-form py-0 w-auto">
+  <div class="jumbotron my-auto w-auto">
     <div class="container">
-      <div class="col-md-6 mx-auto card bg-light">
-        <h2 style="padding:1.5rem 0; text-align:center;">Log in</h2>
-          <p class="subtitle text-black" style="text-align:center;">Please login to proceed.</p>
-        <div class="box mt-0">
+      <div class="jumbotron col-lg-5 mx-auto bg-light border">
+        <h2>Log in</h2><br>
+          <p>Please login to proceed.</p>
+        <div>
           <% if @user.errors.any? %>
             <div id="error_explanation" class="alert alert-danger">
               <ul>
@@ -27,15 +27,14 @@
               <%= f.password_field :password, autocomplete: "current-password", class: "form-control", placeholder:"Password" %>
             </div>
 
-            <% if devise_mapping.rememberable? %>
-              <div class="login-remember_me">
-                <%= f.check_box :remember_me, class:"checkbox" %>
-                <%= f.label :remember_me %>
-              </div>
-            <% end %>
-
-            <div class="actions">
-              <%= f.submit "Log in", class:"btn btn-primary w-50" %>
+            <div class="actions mt-3">
+              <%= f.submit "Log in", class:"btn btn-primary w-100" %>
+              <% if devise_mapping.rememberable? %>
+                <div class="login-remember_me">
+                  <%= f.check_box :remember_me, class:"checkbox" %>
+                  <%= f.label :remember_me %>
+                </div>
+              <% end %>
             </div>
             <br>
             <p class="border border-secondary" style="opacity:0.5" ></p>
